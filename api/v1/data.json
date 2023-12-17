@@ -1,79 +1,76 @@
-[
-    {
-        "imageURl": "https: //appmmdev.github.io/mymyanmarhouse/images/logo1.png",
-        "title": "House 1",
-        "content": "This house is for sale.",
-        "bedroom": 3,
-        "bathroom": 3,
-        "price": 300000,
-        "address": "Monywa,Sagaing , Myanmar"
-    },
-    {
-        "imageURl": "https: //appmmdev.github.io/mymyanmarhouse/images/logo2.png",
-        "title": "House 2",
-        "content":
-            "This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.",
-        "bedroom": 3,
-        "bathroom": 3,
-        "price": 2500000,
-        "address": "Naypyitaw,Mandalay , Myanmar"
-    },
-    {
-        "imageURl": "https: //appmmdev.github.io/mymyanmarhouse/images/logo3.png",
-        "title": "House 3",
-        "content": "This house is for sale.",
-        "bedroom": 4,
-        "bathroom": 5,
-        "price": 450000,
-        "address": "PyinOoLwin,Mandalay , Myanmar"
-    },
-    {
-        "imageURl": "https: //appmmdev.github.io/mymyanmarhouse/images/logo4.png",
-        "title": "House 4",
-        "content": "This house is for sale.",
-        "bedroom": 5,
-        "bathroom": 5,
-        "price": 760000,
-        "address": "Mandalay,Mandalay , Myanmar"
-    },
-    {
-        "imageURl":
-            "https: //rapidapi.com/blog/wp-content/uploads/2018/10/architecture-1836070_640.jpg",
-        "title": "House 5",
-        "content": "This house is for sale.",
-        "bedroom": 3,
-        "bathroom": 3,
-        "price": 300000,
-        "address": "Monywa,Sagaing , Myanmar"
-    },
-    { "imageURl":
-            "https: //media.cnn.com/api/v1/images/stellar/prod/161122140823-wikkelhouse-1.jpg?q=w_1920,h_1080,x_0,y_0,c_fill/h_618",
-        "title": "House 6",
-        "content":
-            "This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.",
-        "bedroom": 3,
-        "bathroom": 3,
-        "price": 2500000,
-        "address": "Naypyitaw,Mandalay , Myanmar"
-    },
-    {
-        "imageURl":
-            "https: //images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "title": "House 7",
-        "content": "This house is for sale.",
-        "bedroom": 4,
-        "bathroom": 5,
-        "price": 450000,
-        "address": "PyinOoLwin,Mandalay , Myanmar"
-    },
-    {
-        "imageURl":
-            "https: //images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "title": "House 8",
-        "content": "This house is for sale.",
-        "bedroom": 5,
-        "bathroom": 5,
-        "price": 760000,
-        "address": "Mandalay,Mandalay , Myanmar"
-    }
-]
+{
+    "data": [
+        {
+            "imageURl": "https: //appmmdev.github.io/mymyanmarhouse/images/logo1.png",
+            "title": "House 1",
+            "content": "This house is for sale.",
+            "bedroom": 3,
+            "bathroom": 3,
+            "price": 300000,
+            "address": "Monywa,Sagaing , Myanmar"
+        },
+        {
+            "imageURl": "https: //appmmdev.github.io/mymyanmarhouse/images/logo2.png",
+            "title": "House 2",
+            "content": "This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.",
+            "bedroom": 3,
+            "bathroom": 3,
+            "price": 2500000,
+            "address": "Naypyitaw,Mandalay , Myanmar"
+        },
+        {
+            "imageURl": "https: //appmmdev.github.io/mymyanmarhouse/images/logo3.png",
+            "title": "House 3",
+            "content": "This house is for sale.",
+            "bedroom": 4,
+            "bathroom": 5,
+            "price": 450000,
+            "address": "PyinOoLwin,Mandalay , Myanmar"
+        },
+        {
+            "imageURl": "https: //appmmdev.github.io/mymyanmarhouse/images/logo4.png",
+            "title": "House 4",
+            "content": "This house is for sale.",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": 760000,
+            "address": "Mandalay,Mandalay , Myanmar"
+        },
+        {
+            "imageURl": "https: //rapidapi.com/blog/wp-content/uploads/2018/10/architecture-1836070_640.jpg",
+            "title": "House 5",
+            "content": "This house is for sale.",
+            "bedroom": 3,
+            "bathroom": 3,
+            "price": 300000,
+            "address": "Monywa,Sagaing , Myanmar"
+        },
+        {
+            "imageURl": "https: //media.cnn.com/api/v1/images/stellar/prod/161122140823-wikkelhouse-1.jpg?q=w_1920,h_1080,x_0,y_0,c_fill/h_618",
+            "title": "House 6",
+            "content": "This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.This house is for Hire.",
+            "bedroom": 3,
+            "bathroom": 3,
+            "price": 2500000,
+            "address": "Naypyitaw,Mandalay , Myanmar"
+        },
+        {
+            "imageURl": "https: //images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "title": "House 7",
+            "content": "This house is for sale.",
+            "bedroom": 4,
+            "bathroom": 5,
+            "price": 450000,
+            "address": "PyinOoLwin,Mandalay , Myanmar"
+        },
+        {
+            "imageURl": "https: //images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "title": "House 8",
+            "content": "This house is for sale.",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": 760000,
+            "address": "Mandalay,Mandalay , Myanmar"
+        }
+    ]
+}
