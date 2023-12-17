@@ -157,6 +157,8 @@
             {
                 "images": [
                     {
+                        "image": "https://media.cnn.com/api/v1/images/stellar/prod/161122140823-wikkelhouse-1.jpg?q=w_1920,h_1080,x_0,y_0,c_fill/h_618"
+                    },{
                         "image": "https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&w=600"
                     },
                     {
@@ -164,10 +166,8 @@
                     },
                     {
                         "image": "https://rapidapi.com/blog/wp-content/uploads/2018/10/architecture-1836070_640.jpg"
-                    },
-                    {
-                        "image": "https://media.cnn.com/api/v1/images/stellar/prod/161122140823-wikkelhouse-1.jpg?q=w_1920,h_1080,x_0,y_0,c_fill/h_618"
                     }
+                    
                 ],
                 "title": "House 8",
                 "content": "A contemporary masterpiece awaits in this 4-bedroom architectural gem. The open-concept layout, floor-to-ceiling windows, and state-of-the-art kitchen create an environment that is both sophisticated and functional. The expansive deck offers panoramic views, providing the perfect backdrop for relaxation and entertaining. Elevate your lifestyle with this exceptional residence.",
