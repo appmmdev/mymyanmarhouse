@@ -18,7 +18,7 @@
                     }
                 ],
                 "title": "House 1",
-                "content": "Welcome to your dream home! This charming 3-bedroom, 2-bathroom house is now available for sale. Featuring a spacious living room, a modern kitchen with stainless steel appliances, and a beautifully landscaped backyard, this home is perfect for family gatherings and entertaining guests. Don't miss the opportunity to make this house your own oasis.",
+                "content": "သင့်အိပ်မက်အိမ်မှ ကြိုဆိုပါတယ်။ ဤချစ်စရာကောင်းသော အိပ်ခန်း 3 ခန်း၊ ရေချိုးခန်း 2 ခန်းပါသော လုံးချင်းအိမ် ကို ယခု ရောင်းချနိုင်ပါပြီ။ ကျယ်ဝန်းသောဧည့်ခန်း၊ သံမဏိပစ္စည်းများပါသည့် ခေတ်မီမီးဖိုချောင်နှင့် လှပသောရှုခင်းခင်းထားသော အိမ်နောက်ဖေးတို့ပါဝင်သည့် ဤအိမ်သည် မိသားစုတွေ့ဆုံပွဲများနှင့် ဖျော်ဖြေရေးဧည့်သည်များအတွက် အကောင်းဆုံးဖြစ်သည်။ ဤအိမ်ကို သင့်ကိုယ်ပိုင် အိုအေစစ်အဖြစ် ဖန်တီးရန် အခွင့်အရေးကို လက်လွတ်မခံပါနှင့်။",
                 "bedroom": 3,
                 "bathroom": 3,
                 "price": 300000,
@@ -43,7 +43,7 @@
                     }
                 ],
                 "title": "House 2",
-                "content": "Explore the elegance of this newly listed 4-bedroom colonial-style home. With hardwood floors, a gourmet kitchen, and a cozy fireplace, every detail in this house exudes warmth and sophistication. The expansive backyard provides a serene retreat, ideal for relaxation and outdoor activities. Schedule a tour today and envision the possibilities of calling this place home.",
+                "content": "အသစ်စာရင်းသွင်းထားသော အိပ်ခန်း 4 ခန်းပါ ကိုလိုနီစတိုင်အိမ်၏ ကျက်သရေရှိမှုကို စူးစမ်းပါ။ သစ်မာကြမ်းပြင်များ၊ အရသာရှိသောမီးဖိုချောင်နှင့် ဇိမ်ရှိမီးဖိုများဖြင့် ဤအိမ်ရှိအသေးစိတ်တိုင်းသည် နွေးထွေးမှုနှင့် ဆန်းပြားမှုကို ပေါ်လွင်စေသည်။ ကျယ်ဝန်းသော အိမ်နောက်ဖေးသည် သာယာအေးချမ်းသော အပန်းဖြေအနားယူမှုကို ပေးစွမ်းပြီး အပန်းဖြေရန်နှင့် ပြင်ပလှုပ်ရှားမှုများအတွက် အကောင်းဆုံးဖြစ်သည်။ ယနေ့ ခရီးစဉ်ကို စီစဉ်ပြီး ဤနေရာကို အိမ်ပြန်ခေါ်ရန် ဖြစ်နိုင်ချေများကို ခန့်မှန်းကြည့်ပါ။",
                 "bedroom": 3,
                 "bathroom": 3,
                 "price": 2500000,
