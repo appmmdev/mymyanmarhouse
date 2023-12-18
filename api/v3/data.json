@@ -1,0 +1,188 @@
+ {
+        "data": [
+            {
+                "images": [
+                    {
+                        "image": "https://appmmdev.github.io/mymyanmarhouse/images/logo1.png"
+                    },
+                    {
+                        "image": "https://appmmdev.github.io/mymyanmarhouse/images/logo2.png"
+                    },
+                    {
+                        "image": "https://appmmdev.github.io/mymyanmarhouse/images/logo3.png"
+                    },
+                    {
+                        "image": "https://appmmdev.github.io/mymyanmarhouse/images/logo4.png"
+                    }
+                ],
+                "title": "House 1",
+                "content": "Welcome to your dream home! This charming 3-bedroom, 2-bathroom house is now available for sale. Featuring a spacious living room, a modern kitchen with stainless steel appliances, and a beautifully landscaped backyard, this home is perfect for family gatherings and entertaining guests. Don't miss the opportunity to make this house your own oasis.",
+                "bedroom": 3,
+                "bathroom": 3,
+                "price": 300000,
+                "label": "for Sell",
+                "address": "Monywa,Sagaing , Myanmar"
+            },
+            {
+                "images": [
+                    {
+                        "image": "https://appmmdev.github.io/mymyanmarhouse/images/logo4.png"
+                    },
+                    {
+                        "image": "https://appmmdev.github.io/mymyanmarhouse/images/logo1.png"
+                    },
+                    {
+                        "image": "https://appmmdev.github.io/mymyanmarhouse/images/logo2.png"
+                    },
+                    {
+                        "image": "https://appmmdev.github.io/mymyanmarhouse/images/logo3.png"
+                    }
+                ],
+                "title": "House 2",
+                "content": "Explore the elegance of this newly listed 4-bedroom colonial-style home. With hardwood floors, a gourmet kitchen, and a cozy fireplace, every detail in this house exudes warmth and sophistication. The expansive backyard provides a serene retreat, ideal for relaxation and outdoor activities. Schedule a tour today and envision the possibilities of calling this place home.",
+                "bedroom": 3,
+                "bathroom": 3,
+                "price": 2500000,
+                "label": "for Hire",
+                "address": "Naypyitaw,Mandalay , Myanmar"
+            },
+            {
+                "images": [
+                    {
+                        "image": "https://appmmdev.github.io/mymyanmarhouse/images/logo2.png"
+                    },
+                    {
+                        "image": "https://appmmdev.github.io/mymyanmarhouse/images/logo1.png"
+                    },
+                    {
+                        "image": "https://appmmdev.github.io/mymyanmarhouse/images/logo3.png"
+                    },
+                    {
+                        "image": "https://appmmdev.github.io/mymyanmarhouse/images/logo4.png"
+                    }
+                ],
+                "title": "House 3",
+                "content": "Exceptional value meets luxury in this 5-bedroom, 3.5-bathroom residence. Boasting high-end finishes, a grand foyer, and an expansive master suite, this house offers the perfect blend of comfort and style. The backyard oasis includes a sparkling pool and a covered patio, making it an entertainer's delight. Your dream home awaits – seize the opportunity!",
+                "bedroom": 4,
+                "bathroom": 5,
+                "price": 450000,
+                "label": "for Sell",
+                "address": "PyinOoLwin,Mandalay , Myanmar"
+            },
+            {
+                "images": [
+                    {
+                        "image": "https://appmmdev.github.io/mymyanmarhouse/images/logo3.png"
+                    },
+                    {
+                        "image": "https://appmmdev.github.io/mymyanmarhouse/images/logo1.png"
+                    },
+                    {
+                        "image": "https://appmmdev.github.io/mymyanmarhouse/images/logo2.png"
+                    },
+                    {
+                        "image": "https://appmmdev.github.io/mymyanmarhouse/images/logo4.png"
+                    }
+                ],
+                "title": "House 4",
+                "content": "Step into modern living with this sleek 2-bedroom condo. The open floor plan, large windows, and contemporary design create a bright and inviting atmosphere. Enjoy city views from your private balcony, and take advantage of the building's amenities, including a fitness center and rooftop lounge. Make this urban retreat yours and embrace a vibrant lifestyle.",
+                "bedroom": 5,
+                "bathroom": 5,
+                "price": 760000,
+                "label": "for Hire",
+                "address": "Mandalay,Mandalay , Myanmar"
+            },
+            {
+                "images": [
+                    {
+                        "image": "https://rapidapi.com/blog/wp-content/uploads/2018/10/architecture-1836070_640.jpg"
+                    },
+                    {
+                        "image": "https://media.cnn.com/api/v1/images/stellar/prod/161122140823-wikkelhouse-1.jpg?q=w_1920,h_1080,x_0,y_0,c_fill/h_618"
+                    },
+                    {
+                        "image": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=600"
+                    },
+                    {
+                        "image": "https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&w=600"
+                    }
+                ],
+                "title": "House 5",
+                "content": "Nestled in a family-friendly neighborhood, this 3-bedroom ranch-style home is a true gem. The updated kitchen, cozy living spaces, and a backyard paradise make it an ideal choice for those seeking comfort and convenience. With schools, parks, and shopping nearby, this house offers the perfect blend of suburban tranquility and accessibility.",
+                "bedroom": 3,
+                "bathroom": 3,
+                "price": 300000,
+                "label": "for Sell",
+                "address": "Monywa,Sagaing , Myanmar"
+            },
+            {
+                "images": [
+                    {
+                        "image": "https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&w=600"
+                    },
+                    {
+                        "image": "https://rapidapi.com/blog/wp-content/uploads/2018/10/architecture-1836070_640.jpg"
+                    },
+                    {
+                        "image": "https://media.cnn.com/api/v1/images/stellar/prod/161122140823-wikkelhouse-1.jpg?q=w_1920,h_1080,x_0,y_0,c_fill/h_618"
+                    },
+                    {
+                        "image": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=600"
+                    }
+                ],
+                "title": "House 6",
+                "content": "Discover the epitome of luxury in this 6-bedroom, 4.5-bathroom estate. From the grand entrance to the gourmet kitchen and private theater room, every corner of this house is designed with opulence in mind. The meticulously landscaped grounds include a pool and spa, creating a resort-like ambiance. Indulge in the lifestyle you deserve.",
+                "bedroom": 3,
+                "bathroom": 3,
+                "price": 2500000,
+                "label": "for Hire",
+                "address": "Naypyitaw,Mandalay , Myanmar"
+            },
+            {
+                "images": [
+                    {
+                        "image": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=600"
+                    },
+                    {
+                        "image": "https://rapidapi.com/blog/wp-content/uploads/2018/10/architecture-1836070_640.jpg"
+                    },
+                    {
+                        "image": "https://media.cnn.com/api/v1/images/stellar/prod/161122140823-wikkelhouse-1.jpg?q=w_1920,h_1080,x_0,y_0,c_fill/h_618"
+                    },
+                    {
+                        "image": "https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&w=600"
+                    }
+                ],
+                "title": "House 7",
+                "content": "Immerse yourself in the charm of this historic 1920s bungalow. With original hardwood floors, a cozy fireplace, and a quaint front porch, this 2-bedroom home exudes character. The lush backyard garden provides a peaceful retreat, perfect for enjoying morning coffee or entertaining friends. Experience the timeless appeal of this enchanting property.",
+                "bedroom": 4,
+                "bathroom": 5,
+                "price": 450000,
+                "label": "for Sell",
+                "address": "PyinOoLwin,Mandalay , Myanmar"
+            },
+            {
+                "images": [
+                    {
+                        "image": "https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&w=600"
+                    },
+                    {
+                        "image": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=600"
+                    },
+                    {
+                        "image": "https://rapidapi.com/blog/wp-content/uploads/2018/10/architecture-1836070_640.jpg"
+                    },
+                    {
+                        "image": "https://media.cnn.com/api/v1/images/stellar/prod/161122140823-wikkelhouse-1.jpg?q=w_1920,h_1080,x_0,y_0,c_fill/h_618"
+                    }
+                ],
+                "title": "House 8",
+                "content": "A contemporary masterpiece awaits in this 4-bedroom architectural gem. The open-concept layout, floor-to-ceiling windows, and state-of-the-art kitchen create an environment that is both sophisticated and functional. The expansive deck offers panoramic views, providing the perfect backdrop for relaxation and entertaining. Elevate your lifestyle with this exceptional residence.",
+                "bedroom": 5,
+                "bathroom": 5,
+                "price": 760000,
+                "label": "for Hire",
+                "address": "Mandalay,Mandalay , Myanmar"
+            }
+        ]
+    }
