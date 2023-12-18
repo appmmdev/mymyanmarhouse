@@ -22,7 +22,7 @@
                 "bedroom": 3,
                 "bathroom": 3,
                 "price": 300000,
-                "label": "for Sell",
+                "label": "ရောင်းရန်",
                 "address": "Monywa,Sagaing , Myanmar"
             },
             {
@@ -47,7 +47,7 @@
                 "bedroom": 3,
                 "bathroom": 3,
                 "price": 2500000,
-                "label": "for Hire",
+                "label": "ဌားရန်",
                 "address": "Naypyitaw,Mandalay , Myanmar"
             },
             {
@@ -72,7 +72,7 @@
                 "bedroom": 4,
                 "bathroom": 5,
                 "price": 450000,
-                "label": "for Sell",
+                "label": "ရောင်းရန်",
                 "address": "PyinOoLwin,Mandalay , Myanmar"
             },
             {
@@ -97,7 +97,7 @@
                 "bedroom": 5,
                 "bathroom": 5,
                 "price": 760000,
-                "label": "for Hire",
+                "label": "ဌားရန်",
                 "address": "Mandalay,Mandalay , Myanmar"
             },
             {
@@ -122,7 +122,7 @@
                 "bedroom": 3,
                 "bathroom": 3,
                 "price": 300000,
-                "label": "for Sell",
+                "label": "ရောင်းရန်",
                 "address": "Monywa,Sagaing , Myanmar"
             },
             {
@@ -147,7 +147,7 @@
                 "bedroom": 3,
                 "bathroom": 3,
                 "price": 2500000,
-                "label": "for Hire",
+                "label": "ဌားရန်",
                 "address": "Naypyitaw,Mandalay , Myanmar"
             },
             {
@@ -172,7 +172,7 @@
                 "bedroom": 4,
                 "bathroom": 5,
                 "price": 450000,
-                "label": "for Sell",
+                "label": "ရောင်းရန်",
                 "address": "PyinOoLwin,Mandalay , Myanmar"
             },
             {
@@ -195,7 +195,7 @@
                 "bedroom": 5,
                 "bathroom": 5,
                 "price": 760000,
-                "label": "for Hire",
+                "label": "ဌားရန်",
                 "address": "Mandalay,Mandalay , Myanmar"
             }
         ]
