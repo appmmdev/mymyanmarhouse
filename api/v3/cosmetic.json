@@ -6,7 +6,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
-            "price": 1327,
+            "price": 10000,
             "images": [
                 {
                     "url": "https://amusemyanmarcosmetics.com/uploads/products/1699600195347239996_242918588497018_6299380032615184672_n.jpg",
@@ -20,7 +20,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
-            "price": 4063,
+            "price": 25000,
             "images": [
                 {
                     "url": "https://amusemyanmarcosmetics.com/uploads/products/1699603396355651566_240662232055987_146846761450528959_n.jpg",
@@ -34,7 +34,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
-            "price": 6412,
+            "price": 15000,
             "images": [
                 {
                     "url": "https://amusemyanmarcosmetics.com/uploads/categories/155534777615522026511551636442dioio.png",
@@ -48,7 +48,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
-            "price": 3535,
+            "price": 30000,
             "images": [
                 {
                     "url": "https://amusemyanmarcosmetics.com/uploads/categories/155534777615522026511551636442dioio.png",
@@ -61,7 +61,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
-            "price": 1327,
+            "price": 10000,
             "images": [
                 {
                     "url": "https://amusemyanmarcosmetics.com/uploads/products/1699600195347239996_242918588497018_6299380032615184672_n.jpg",
@@ -75,7 +75,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
-            "price": 4063,
+            "price": 25000,
             "images": [
                 {
                     "url": "https://amusemyanmarcosmetics.com/uploads/products/1699603396355651566_240662232055987_146846761450528959_n.jpg",
@@ -89,7 +89,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
-            "price": 6412,
+            "price": 15000,
             "images": [
                 {
                     "url": "https://amusemyanmarcosmetics.com/uploads/categories/155534777615522026511551636442dioio.png",
@@ -103,7 +103,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
-            "price": 3535,
+            "price": 30000,
             "images": [
                 {
                     "url": "https://amusemyanmarcosmetics.com/uploads/categories/155534777615522026511551636442dioio.png",
@@ -116,7 +116,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
-            "price": 1327,
+            "price": 10000,
             "images": [
                 {
                     "url": "https://amusemyanmarcosmetics.com/uploads/products/1699600195347239996_242918588497018_6299380032615184672_n.jpg",
@@ -130,7 +130,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
-            "price": 4063,
+            "price": 25000,
             "images": [
                 {
                     "url": "https://amusemyanmarcosmetics.com/uploads/products/1699603396355651566_240662232055987_146846761450528959_n.jpg",
@@ -144,7 +144,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
-            "price": 6412,
+            "price": 15000,
             "images": [
                 {
                     "url": "https://amusemyanmarcosmetics.com/uploads/categories/155534777615522026511551636442dioio.png",
@@ -158,7 +158,62 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
-            "price": 3535,
+            "price": 30000,
+            "images": [
+                {
+                    "url": "https://amusemyanmarcosmetics.com/uploads/categories/155534777615522026511551636442dioio.png",
+                    "products_id": 9
+                }
+            ]
+        }, {
+            "name": "Eyeshadow",
+            "info": "Ea tempore enim voluptas quia et rem. Quia perspiciatis itaque eaque eos quia sit aut. Earum tempore alias voluptatem qui a. Est eveniet officiis quae.",
+            "category": "Cosmetics",
+            "manDate": 123456789,
+            "expDate": 987654321,
+            "price": 10000,
+            "images": [
+                {
+                    "url": "https://amusemyanmarcosmetics.com/uploads/products/1699600195347239996_242918588497018_6299380032615184672_n.jpg",
+                    "products_id": 4
+                }
+            ]
+        },
+        {
+            "name": "Foundation",
+            "info": "Libero fugiat sit enim id similique. Non provident voluptas illo nihil ipsum animi nihil. Provident consequatur consectetur qui omnis aut dolorem. Ea nihil dolorem aspernatur doloremque maxime incidunt eum. Aspernatur natus tenetur dolore voluptas praesentium omnis.",
+            "category": "Cosmetics",
+            "manDate": 123456789,
+            "expDate": 987654321,
+            "price": 25000,
+            "images": [
+                {
+                    "url": "https://amusemyanmarcosmetics.com/uploads/products/1699603396355651566_240662232055987_146846761450528959_n.jpg",
+                    "products_id": 7
+                }
+            ]
+        },
+        {
+            "name": "Mascara",
+            "info": "Explicabo beatae ut quos explicabo ut illum. Cupiditate quasi ut incidunt nostrum reiciendis et illo. Amet distinctio fuga eligendi qui.",
+            "category": "Cosmetics",
+            "manDate": 123456789,
+            "expDate": 987654321,
+            "price": 15000,
+            "images": [
+                {
+                    "url": "https://amusemyanmarcosmetics.com/uploads/categories/155534777615522026511551636442dioio.png",
+                    "products_id": 8
+                }
+            ]
+        },
+        {
+            "name": "Lipstick",
+            "info": "Nesciunt dolores placeat non sint odio enim voluptatem eveniet. Ducimus ab est vel ut quidem minus. Ea sit facere aspernatur est. Consequuntur enim et quam veritatis aperiam labore.",
+            "category": "Cosmetics",
+            "manDate": 123456789,
+            "expDate": 987654321,
+            "price": 30000,
             "images": [
                 {
                     "url": "https://amusemyanmarcosmetics.com/uploads/categories/155534777615522026511551636442dioio.png",
