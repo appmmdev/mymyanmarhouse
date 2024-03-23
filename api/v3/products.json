@@ -6,6 +6,7 @@
             "category": "Food And Drink",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 30,
             "price": 5000,
             "images": [
                 {
@@ -20,6 +21,7 @@
             "category": "Food And Drink",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 30,
             "price": 3000,
             "images": [
                 {
@@ -34,6 +36,7 @@
             "category": "Food And Drink",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 30,
             "price": 2000,
             "images": [
                 {
@@ -48,6 +51,7 @@
             "category": "Food And Drink",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 30,
             "price": 15000,
             "images": [
                 {
@@ -55,12 +59,14 @@
                     "products_id": 5
                 }
             ]
-        }, {
+        },
+        {
             "name": "ပုဇွန်ကြော်",
             "info": "Recusandae excepturi odit quas rerum. Facere natus et enim velit omnis sint. Doloremque corrupti eos quos. Incidunt beatae sed dolores.",
             "category": "Food And Drink",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 30,
             "price": 5000,
             "images": [
                 {
@@ -75,6 +81,7 @@
             "category": "Food And Drink",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 30,
             "price": 3000,
             "images": [
                 {
@@ -89,6 +96,7 @@
             "category": "Food And Drink",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 30,
             "price": 2000,
             "images": [
                 {
@@ -103,6 +111,7 @@
             "category": "Food And Drink",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 30,
             "price": 15000,
             "images": [
                 {
@@ -110,12 +119,14 @@
                     "products_id": 5
                 }
             ]
-        }, {
+        },
+        {
             "name": "ပုဇွန်ကြော်",
             "info": "Recusandae excepturi odit quas rerum. Facere natus et enim velit omnis sint. Doloremque corrupti eos quos. Incidunt beatae sed dolores.",
             "category": "Food And Drink",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 30,
             "price": 5000,
             "images": [
                 {
@@ -130,6 +141,7 @@
             "category": "Food And Drink",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 30,
             "price": 3000,
             "images": [
                 {
@@ -144,6 +156,7 @@
             "category": "Food And Drink",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 30,
             "price": 2000,
             "images": [
                 {
@@ -158,6 +171,7 @@
             "category": "Food And Drink",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 30,
             "price": 15000,
             "images": [
                 {
@@ -165,12 +179,14 @@
                     "products_id": 5
                 }
             ]
-        }, {
+        },
+        {
             "name": "ပုဇွန်ကြော်",
             "info": "Recusandae excepturi odit quas rerum. Facere natus et enim velit omnis sint. Doloremque corrupti eos quos. Incidunt beatae sed dolores.",
             "category": "Food And Drink",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 30,
             "price": 5000,
             "images": [
                 {
@@ -185,6 +201,7 @@
             "category": "Food And Drink",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 30,
             "price": 3000,
             "images": [
                 {
@@ -199,6 +216,7 @@
             "category": "Food And Drink",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 30,
             "price": 2000,
             "images": [
                 {
@@ -213,6 +231,7 @@
             "category": "Food And Drink",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 30,
             "price": 15000,
             "images": [
                 {
