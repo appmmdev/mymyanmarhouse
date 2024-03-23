@@ -6,6 +6,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 20,
             "price": 25000,
             "images": [
                 {
@@ -20,6 +21,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 20,
             "price": 15000,
             "images": [
                 {
@@ -34,6 +36,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 20,
             "price": 30000,
             "images": [
                 {
@@ -41,12 +44,14 @@
                     "products_id": 9
                 }
             ]
-        }, {
+        },
+        {
             "name": "Eyeshadow",
             "info": "Ea tempore enim voluptas quia et rem. Quia perspiciatis itaque eaque eos quia sit aut. Earum tempore alias voluptatem qui a. Est eveniet officiis quae.",
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 20,
             "price": 10000,
             "images": [
                 {
@@ -61,6 +66,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 20,
             "price": 25000,
             "images": [
                 {
@@ -75,6 +81,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 20,
             "price": 15000,
             "images": [
                 {
@@ -89,6 +96,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 20,
             "price": 30000,
             "images": [
                 {
@@ -96,12 +104,14 @@
                     "products_id": 9
                 }
             ]
-        }, {
+        },
+        {
             "name": "Eyeshadow",
             "info": "Ea tempore enim voluptas quia et rem. Quia perspiciatis itaque eaque eos quia sit aut. Earum tempore alias voluptatem qui a. Est eveniet officiis quae.",
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 20,
             "price": 10000,
             "images": [
                 {
@@ -116,6 +126,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 20,
             "price": 25000,
             "images": [
                 {
@@ -130,6 +141,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 20,
             "price": 15000,
             "images": [
                 {
@@ -144,6 +156,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 20,
             "price": 30000,
             "images": [
                 {
@@ -151,12 +164,14 @@
                     "products_id": 9
                 }
             ]
-        }, {
+        },
+        {
             "name": "Eyeshadow",
             "info": "Ea tempore enim voluptas quia et rem. Quia perspiciatis itaque eaque eos quia sit aut. Earum tempore alias voluptatem qui a. Est eveniet officiis quae.",
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 20,
             "price": 10000,
             "images": [
                 {
@@ -171,6 +186,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 20,
             "price": 25000,
             "images": [
                 {
@@ -185,6 +201,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 20,
             "price": 15000,
             "images": [
                 {
@@ -199,6 +216,7 @@
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 20,
             "price": 30000,
             "images": [
                 {
@@ -206,12 +224,14 @@
                     "products_id": 9
                 }
             ]
-        }, {
+        },
+        {
             "name": "Eyeshadow",
             "info": "Ea tempore enim voluptas quia et rem. Quia perspiciatis itaque eaque eos quia sit aut. Earum tempore alias voluptatem qui a. Est eveniet officiis quae.",
             "category": "Cosmetics",
             "manDate": 123456789,
             "expDate": 987654321,
+            "stock": 20,
             "price": 10000,
             "images": [
                 {
@@ -220,6 +240,5 @@
                 }
             ]
         }
-            ]
-        }
-    
+    ]
+}
